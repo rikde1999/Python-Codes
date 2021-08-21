@@ -1,0 +1,12 @@
+US Dollar 1.00 USD	inv. 1.00 USD
+Euro	  0.823407	1.214466
+British Pound	0.707936	1.412557
+Indian Rupee	73.474965	0.013610
+Australian Dollar	1.276083	0.783648
+Canadian Dollar	1.209116	0.827051
+Singapore Dollar	1.326379	0.753933
+Swiss Franc	0.900539	1.110446
+Malaysian Ringgit	4.115702	0.242972
+Japanese Yen	108.830769	0.009189
+Chinese Yuan Renminbi	6.426623	0.155603
+
