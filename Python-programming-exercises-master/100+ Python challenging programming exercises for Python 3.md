@@ -1,4 +1,4 @@
-# 100+ Python challenging programming exercises for Python 3
+#Python challenging programming exercises for Beginner Python
 
 ## 1. Level description
 ### Level 1	Beginner 
